@@ -163,3 +163,5 @@ pw-env/
 
 # llm debug
 examples/ui/data/*
+
+.DS_Store
